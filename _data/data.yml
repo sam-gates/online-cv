@@ -74,7 +74,6 @@ publications:
     papers:
       - title: Golf Swing Trainer Using Wii Balance Board
         authors: Leftwich, Brooks M.; Hassler, Nicholas; Hall, Clark A.; Gates, Samuel; Vickery, Thomas B.; Rinehart, Alec; Compton, Zakkary; and Singley, Ryan A.
-        conference: Addison-Wesley, 1968
 
 
 skills:
@@ -82,22 +81,22 @@ skills:
 
     toolset:
       - name: JavaScript
-        level: Intermediate
+        level: 75%
 
       - name: React
-        level: Novice
+        level: 75%
 
       - name: AWS
-        level: Novice
+        level: 50%
 
       - name: HTML5 & CSS
-        level: Intermediate
+        level: 75%
 
       - name: Node.js
-        level: Intermediate
+        level: 75%
 
       - name: Website Builders / Hosting (GoDaddy, Wix, Etc.)
-        level: Expert
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
