@@ -35,11 +35,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a full-stack developer for MonitorEDU, an online proctoring company.
-      For my work I have a great interest in WebRTC development, and I am currently developing
-      a new version of our live proctoring video chat solution. The main goal of this project is
-      to reduce costs and create a more dynamic product for both our proctors and customers. As I, alone, am the
-      tech team I also manage over 100 static sites and many of the SaaS apps that the company uses.
+     Full-Stack developer with 1 year of web dev experience and over 5 years programming and problem 
+     solving experience. A great focus on WebRTC and Websocket API developement with strong attention to detail
+     and a drive to create solutions quickly.
 education:
     - degree: BS in Mechanical Engineering
       university: University of Tennessee, Knoxville
